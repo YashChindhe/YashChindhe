@@ -10,10 +10,10 @@ I care about **systems that run reliably**, **data that makes decisions**, and *
 
 ## What I Actually Do
 
-- Build **end-to-end ETL pipelines** using Azure Data Factory
-- Design **event-driven systems** using Kafka and microservices
-- Automate operational workflows using **Python + Jenkins**
+- Build **end-to-end ETL pipelines** using Azure
 - Turn messy raw data into **business-ready analytics**
+- Test **event-driven systems** that uses Kafka and microservices
+- Automate operational workflows using **Python + Jenkins**
 
 ---
 
