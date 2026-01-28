@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="YASH CHINDHE" src="https://github.com/user-attachments/assets/e1384bf3-b988-4aed-bf27-658ab4fd20c7" />
+<img width="1280" height="640" alt="YASH CHINDHE (2)" src="https://github.com/user-attachments/assets/8cd04f7b-79e7-4174-aa47-3f8556d5a284" />
 
 # Hi, I'm Yash Chindhe
 
