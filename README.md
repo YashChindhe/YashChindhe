@@ -8,6 +8,13 @@ I care about **systems that run reliably**, **data that makes decisions**, and *
 
 ---
 
+## Connect
+
+- LinkedIn: www.linkedin.com/in/yash-chindhe-9601a7226
+- Email: chindhe1234@gmail.com
+
+---
+
 ## What I Actually Do
 
 - Build **end-to-end ETL pipelines** using Azure
@@ -47,10 +54,3 @@ I care about **systems that run reliably**, **data that makes decisions**, and *
 - Systems that fail loudly > systems that fail silently
 
 If it doesn't scale, isn't testable, or can't be monitored — I’m not interested.
-
----
-
-## Connect
-
-- LinkedIn: www.linkedin.com/in/yash-chindhe-9601a7226
-- Email: chindhe1234@gmail.com
