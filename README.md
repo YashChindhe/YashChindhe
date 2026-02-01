@@ -10,8 +10,9 @@ I care about **systems that run reliably**, **data that makes decisions**, and *
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/yash-chindhe-9601a7226
-- Email: chindhe1234@gmail.com
+- LinkedIn : www.linkedin.com/in/yash-chindhe-9601a7226
+- Email : chindhe1234@gmail.com
+- X / Twitter: https://x.com/YashChindhe
 
 ---
 
